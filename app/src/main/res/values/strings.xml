@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Game Backlog Kotlin</string>
+    <string name="title">Title</string>
+    <string name="platform">Platform</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="releaseDate">Release: %1$d %2$s %3$d</string>
+</resources>
